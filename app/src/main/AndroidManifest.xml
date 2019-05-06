@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.aesopsfables">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".Fable_10"
+            android:label="@string/title_activity_fable_10"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.aesopsfables.MainActivity" />
+        </activity>
+        <activity
+            android:name=".Fable_9"
+            android:label="@string/title_activity_fable_9"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.aesopsfables.MainActivity" />
+        </activity>
+        <activity
+            android:name=".Fable_8"
+            android:label="@string/title_activity_fable_8"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.aesopsfables.MainActivity" />
+        </activity>
+        <activity
+            android:name=".Fable_7"
+            android:label="@string/title_activity_fable_7"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.aesopsfables.MainActivity" />
+        </activity>
+        <activity
+            android:name=".Fable_6"
+            android:label="@string/title_activity_fable_6"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.aesopsfables.MainActivity" />
+        </activity>
+        <activity
+            android:name=".Fable_5"
+            android:label="@string/title_activity_fable_5"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.aesopsfables.MainActivity" />
+        </activity>
+        <activity
+            android:name=".Fable_4"
+            android:label="@string/title_activity_fable_4"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.aesopsfables.MainActivity" />
+        </activity>
+        <activity
+            android:name=".Fable_3"
+            android:label="@string/title_activity_fable_3"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.aesopsfables.MainActivity" />
+        </activity>
+        <activity
+            android:name=".Fable_2"
+            android:label="@string/title_activity_fable_2"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.aesopsfables.MainActivity" />
+        </activity>
+        <activity
+            android:name=".Fable_1"
+            android:label="@string/title_activity_fable_1"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.aesopsfables.MainActivity" />
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

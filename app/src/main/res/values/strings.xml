@@ -1,0 +1,148 @@
+<resources>
+    <string name="app_name">Aesops Fables</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_fable_1">Fable_1</string>
+    <string name="title_activity_fable_2">Fable_2</string>
+    <string name="title_activity_fable_3">Fable_3</string>
+    <string name="title_activity_fable_4">Fable_4</string>
+    <string name="title_activity_fable_5">Fable_5</string>
+    <string name="title_activity_fable_6">Fable_6</string>
+    <string name="title_activity_fable_7">Fable_7</string>
+    <string name="title_activity_fable_8">Fable_8</string>
+    <string name="title_activity_fable_9">Fable_9</string>
+    <string name="title_activity_fable_10">Fable_10</string>
+    <string name="fable_1_Text">An Arab Camel-driver having completed the lading of his Camel, asked him which he would like best, to go up hill or down hill.\n\n
+
+The poor beast replied, not without a touch of reason: "Why do you ask me? Is it that the level way through the desert is closed?"</string>
+    <string name="fable_2_Text">Two neighbours came before Jupiter and prayed him to grant their hearts desire. Now the one was full of avarice, and the other eaten up with envy.
+
+So to punish them both, Jupiter granted that each might have whatever he wished for himself, but only on condition that his neighbour had twice as much.\n\n
+
+The Avaricious man prayed to have a room full of gold.
+
+No sooner said than done; but all his joy was turned to grief when he found that his neighbour had two rooms full of the precious metal.\n\n
+
+Then came the turn of the Envious man, who could not bear to think that his neighbour had any joy at all.
+
+So he prayed that he might have one of his own eyes put out, by which means his companion would become totally blind.</string>
+
+    <string name="fable_3_Text">A Gentleman, having prepared a great feast, invited a Friend to supper; and the Gentlemans Dog, meeting the Friends Dog, "Come," said he, "my good fellow, and sup with us to-night."\n\n
+
+ The Dog was delighted with the invitation, and as he stood by and saw the preparations for the feast, said to himself: "Capital fare indeed! this is, in truth, good luck.\n\n I shall revel in dainties, and I will take good care to lay in an ample stock to-night, for I may have nothing to eat to-morrow."
+
+As he said this to himself, he wagged his tail, and gave a sly look at his friend who had incited him.\n\n
+
+But his tail wagging to and fro caught the cooks eye, who, seeing a stranger, straightway seized him by the legs, and threw him out the window to the street below.\n\n
+
+When he reached the ground, he set off yelping down the street; upon which the neighbors dogs ran up to him and asked him how he liked his supper.\n\n "In faith," said he, with a sorry smile, "I hardly know, for we drank so deeply, that I can't even tell you which way I got out."</string>
+
+    <string name="fable_4_Text">A Man had lost his way in a wood one bitter winters night.
+
+As he was roaming about, a Satyr came up to him, and finding that he had lost his way, promised to give him a lodging for the night, and guide him out of the forest in the morning.\n\n
+
+As he went along to the Satyrs cell, the Man raised both his hands to his mouth and kept on blowing at them.
+
+"What do you do that for?" said the Satyr.\n\n
+
+"My hands are numb with the cold," said the Man, "and my breath warms them."
+
+After this they arrived at the Satyr's home, and soon the Satyr put a smoking dish of porridge before him.\n\n
+
+But when the Man raised his spoon to his mouth he began blowing upon it.
+
+"And what do you do that for?" said the Satyr.\n\n
+
+"The porridge is too hot, and my breath will cool it."
+
+"Out you go," said the Satyr.
+
+"I will have nought to do with a man who can blow hot and cold with the same breath."\n\n</string>
+
+    <string name="fable_5_Text">Once upon a time there was a Miser who used to hide his gold at the foot of a tree in his garden; but every week he used to go and dig it up and gloat over his gains.
+
+A robber, who had noticed this, went and dug up the gold and decamped with it.\n\n
+
+When the Miser next came to gloat over his treasures, he found nothing but the empty hole.
+
+He tore his hair, and raised such an outcry that all the neighbours came around him, and he told them how he used to come and visit his gold.\n\n
+
+"Did you ever take any of it out?" asked one of them.
+
+"Nay," said he, "I only came to look at it."
+
+"Then come again and look at the hole," said a neighbour; "it will do you just as much good."\n\n</string>
+
+    <string name="fable_6_Text">"Be quiet now," said an old Nurse to a child sitting on her lap.
+
+"If you make that noise again I will throw you to the Wolf."\n\n
+
+Now it chanced that a Wolf was passing close under the window as this was said.
+
+So he crouched down by the side of the house and waited.
+
+"I am in good luck to-day," thought he. "It is sure to cry soon, and a daintier morsel I haven't had for many a long day."\n\n
+
+So he waited, and he waited, and he waited, till at last the child began to cry, and the Wolf came forward before the window, and looked up to the Nurse, wagging his tail.\n\n
+
+But all the Nurse did was to shut down the window and call for help, and the dogs of the house came rushing out.
+
+"Ah," said the Wolf as he galloped away, "Enemies promises were made to be broken."\n\n</string>
+
+    <string name="fable_7_Text">On a summer day, when the great heat induced a general thirst, a Lion and a Boar came at the same moment to a small well to drink.\n\n
+
+They fiercely disputed which of them should drink first, and were soon engaged in the agonies of a mortal combat.\n\n
+
+On their stopping on a sudden to take breath for the fiercer renewal of the strife, they saw some Vultures waiting in the distance to feast on the one which should fall first.
+
+They at once made up their quarrel, saying:\n\n
+
+"It is better for us to make friends, than to become the food of Crows or Vultures, as will certainly happen if we are disabled."</string>
+
+    <string name="fable_8_Text">In the old days men used to worship stocks and stones and idols, and prayed to them to give them luck.\n\n
+
+It happened that a Man had often prayed to a wooden idol he had received from his father, but his luck never seemed to change.\n\n
+
+He prayed and he prayed, but still he remained as unlucky as ever.
+
+One day in the greatest rage he went to the Wooden God, and with one blow swept it down from its pedestal.\n\n
+
+The idol broke in two, and what did he see?
+
+An immense number of coins flying all over the place.\n\n</string>
+
+    <string name="fable_9_Text">A Crow, half-dead with thirst, came upon a Pitcher which had once been full of water; but when the Crow put its beak into the mouth of the Pitcher he found that only very little water was left in it, and that he could not reach far enough down to get at it.\n\n
+
+He tried, and he tried, but at last had to give up in despair.\n\n
+
+Then a thought came to him, and he took a pebble and dropped it into the Pitcher.\n\n
+
+Then he took another pebble and dropped it into the Pitcher.\n\n
+
+Then he took another pebble and dropped that into the Pitcher.\n\n
+
+Then he took another pebble and dropped that into the Pitcher.\n\n
+
+Then he took another pebble and dropped that into the Pitcher.\n\n
+
+Then he took another pebble and dropped that into the Pitcher.\n\n
+
+At last, at last, he saw the water mount up near him, and after casting in a few more pebbles he was able to quench his thirst and save his life.\n\n
+
+ </string>
+
+    <string name="fable_10_Text">In a field one summers day a Grasshopper was hopping about, chirping and singing to its hearts content.\n\n An Ant passed by, bearing along with great toil an ear of corn he was taking to the nest.
+
+"Why not come and chat with me," said the Grasshopper, "instead of toiling and moiling in that way?"\n\n
+
+"I am helping to lay up food for the winter," said the Ant, "and recommend you to do the same."\n\n
+
+"Why bother about winter?" said the Grasshopper; "we have got plenty of food at present."\n\n
+
+But the Ant went on its way and continued its toil.\n\n
+
+When the winter came the Grasshopper had no food and found itself dying of hunger, while it saw the ants distributing every day corn and grain from the stores they had collected in the summer.\n\n
+
+Then the Grasshopper knew: It is best to prepare for the days of necessity.\n\n</string>
+
+
+</resources>
